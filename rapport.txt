@@ -1,0 +1,37 @@
+RAPPORT D'ÉTUDE : LES INSECTES BIOINDICATEURS DE LA QUALITÉ DE L'EAU
+Auteur : HAMIDA CHAIMA,BOUHZAM MAROUA,CHILI LOUBNA,HAMOUD OMNYA,KAREMICHE KHALIDA,LECHEHEB AHMED,SAYAD ZAKARIA,TLILANI CHEIMA,ZHEROUMI OUMEIMA,ABADLIA NOURHENE.
+Formation : Master 1 Biologie
+Module : TP Workflow de recherche reproductible (Dr. Aouatef Chaib)
+Université : Frères Mentouri Constantine 1
+INTRODUCTION
+Les bioindicateurs sont des organismes vivants qui nous donnent des
+informations sur la santé d'un écosystème. Dans la recherche en
+biologie animale, les insectes sont très utilisés comme bioindicateurs
+car ils sont très sensibles aux modifications de leur environnement.
+L'objectif de ce travail est de présenter une analyse simple sur
+l'abondance de certains insectes aquatiques selon la qualité de l'eau.
+MATÉRIEL ET MÉTHODES
+Les données ont été récoltées dans deux stations d'étude différentes :
+Station A : Eau claire et propre.
+Station B : Eau polluée.
+Trois groupes d'insectes bioindicateurs ont été observés :
+Éphéméroptères (Indicateurs de bonne qualité d'eau)
+Trichoptères (Indicateurs de bonne à moyenne qualité)
+Chironomidae (Indicateurs de forte pollution)
+Les données brutes de comptage sont enregistrées dans le fichier
+"donnees.csv".
+RÉSULTATS
+D'après les premières observations conservées dans notre fichier :
+Dans la Station A (eau propre), on observe une forte présence
+d'Éphéméroptères et de Trichoptères.
+Dans la Station B (eau polluée), les Éphéméroptères disparaissent
+et les Chironomidae deviennent très dominants.
+DISCUSSION ET CONCLUSION
+Les résultats confirment la sensibilité des insectes aux variations
+de l'environnement. La présence ou l'absence de certains groupes
+d'insectes nous permet d'évaluer directement le niveau de pollution
+d'un milieu aquatique.
+Ce travail a été organisé dans un dossier local "analyse_insectes"
+puis synchronisé avec GitHub afin d'assurer la traçabilité et la
+r
+

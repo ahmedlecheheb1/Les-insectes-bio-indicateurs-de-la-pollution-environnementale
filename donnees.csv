@@ -1,0 +1,4 @@
+ id_insecte;espece;zone_prel;nb_individus
+1;Ephemeroptera;Zone_A;15
+2;Trichopteres;Zone_A;8
+3;Chironomidae;Zone_B;25
